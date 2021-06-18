@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1977224758/packages.paymob_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1977224758/packages.paymob_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/acceptsdk-release/paymob_plugin.acceptsdk-release.iml" filepath="$PROJECT_DIR$/.idea/modules/acceptsdk-release/paymob_plugin.acceptsdk-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paymob_plugin.paymob_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/paymob_plugin.paymob_plugin.iml" />
+    </modules>
+  </component>
+</project>
