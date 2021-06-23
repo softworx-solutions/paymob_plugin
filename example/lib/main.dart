@@ -53,7 +53,7 @@ class _MyAppState extends State<MyApp> {
           deliveryNeeded: "false",
           amountCents: "100",
           currency: "EGP",
-          merchantOrderId: 15,
+          merchantOrderId: 19,
           items: [
             Item(
                 name: "ASC1515",
@@ -179,13 +179,13 @@ class _MyAppState extends State<MyApp> {
         themeColor: Color(0xFF002B36),
         language: "ar",
         actionbar: true,
-        token: 'c47e933925ced256accd2321ef03f908a7151b3677c989449e12f8a1',
-        maskedPanNumber: "xxxx-xxxx-xxxx-2346",
+        token: _token,
+        maskedPanNumber: _maskedPan,
         customer: Customer(
             firstName: "Eman",
             lastName: "Ahmed",
-            phoneNumber: "+201017410066",
-            email: "emaaan.ahmed74@gmail.com",
+            phoneNumber: "+201012345678",
+            email: "example@gmail.com",
             building: "7",
             floor: "9",
             apartment: "91",
